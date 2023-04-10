@@ -1,2 +1,7 @@
 # AVL_Tree_CPP
 A C++ implementation of AVL Tree from scratch with lots of comments.
+
+## Fun Fact 1
+The AVL Tree implementation was originally a homework of USC's CSCI 104 - Data Structures and Object Oriented Design, the reason I decided to create this repo is that I just learned that UCLA and UMich don't require students to implement AVL Tree and even understand it. UCLA's slide explicitly says "you don't need to know the gory details of any of these balancedd BSTs..." which makes me realize it's probably quite an accomplishment to code out AVL Tree in freshman year. So here I post it. Please note that these are legacy codes so there are pieces of "unprofessional" C++ code (very readable though, at least IMO).
+## Fun Fact 2
+I once posted all my codes for CSCI 104 and earned a few stars, alongside with a bunch of forks from Github accounts that say "USC CS 202x Student" where x >= 5. <del>Seriously, fork that project while you are at USC?</del> As a result, I removed all repositories of any classes from my Github and renamed this one (I still want to showcase this one to potential employers, etc...) to AVL Tree in hope of less CSCI 104 search engine exposure. If you are a USC student currently taking CSCI 104, please refrain from looking at ANY part of the code and remember the academic integrity rules.
